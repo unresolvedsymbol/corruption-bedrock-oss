@@ -1,7 +1,7 @@
 # Corruption Client for Minecraft via mcpelauncher-linux
-Native mod (C++) for cheating in Minecraft: Bedrock Edition
-Warning! This code doesn't work anymore due to how symbols are stripped out of the binaries now.
-It could be fixed with effort, but I have moved on to better things.
+Native mod (C++) for cheating in Minecraft: Bedrock Edition\
+Warning! This code doesn't work anymore due to how symbols are stripped out of the binaries now.\
+It could be fixed with effort, but I have moved on to better things.\
 *No private exploits are included in this code besides the speed modes which may still bypass on some servers but are extremely old*
 ## In action (old videos)
 [![Particles!](https://res.cloudinary.com/marcomontalbano/image/upload/v1656013204/video_to_markdown/images/youtube--xIf78Vyx0l4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/xIf78Vyx0l4 "Particles!")
