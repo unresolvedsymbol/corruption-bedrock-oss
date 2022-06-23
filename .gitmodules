@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui/
+[submodule "bedrock-headers"]
+	path = bedrock-headers
+	url = https://github.com/mcdevhub/bedrock-headers
