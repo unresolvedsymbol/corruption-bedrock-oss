@@ -1,4 +1,6 @@
 # Corruption Client for Minecraft via mcpelauncher-linux
+This is public again hi skids
+
 Native mod (C++) for cheating in Minecraft: Bedrock Edition\
 Warning! This code doesn't work anymore due to how symbols are stripped out of the binaries now.\
 It could be fixed with effort, but I have moved on to better things.\
